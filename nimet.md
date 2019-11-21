@@ -1,5 +1,2 @@
 Miika Raussi
 
-
-Matias Kivilahti
-
